@@ -5,12 +5,13 @@ This project presents an interactive Excel dashboard for analyzing Myntra fashio
 <img width="595" height="401" alt="Screenshot 2026-06-17 112739" src="https://github.com/user-attachments/assets/9933367a-1a5f-4132-8dfa-82632e2a0cd3" />
 
 ## Key Features
-KPI Tracking.
-Brand Performance Analysis.
-Pricing Analysis.
-Discount Analysis.
-Customer Rating Insights.
-Interactive Slicers.
+•	KPI Tracking
+•	Brand Performance Analysis
+•	Pricing Analysis
+•	Discount Analysis
+•	Customer Rating Insights
+•	Interactive Slicers
+
 
 ## Tools Used
 Microsoft Excel.
